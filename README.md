@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a passionate and curious developer in training, currently learning JavaScript, TypeScript, and React, with plans to expand into Node.js and full-stack development. I enjoy taking on challenges, learn quickly, and approach every project with commitment, passion, curiosity, and tenacity. For now, I’m working on personal projects to strengthen my skills, build a solid foundation in web development, and prepare myself to contribute to real-world applications.
+I’m a passionate and curious developer in training, currently learning JavaScript, TypeScript, and React, with plans to expand into Node.js. I enjoy taking on challenges, learn quickly, and approach every project with commitment, passion, curiosity, and tenacity. For now, I’m working on personal projects to strengthen my skills, build a solid foundation in web development, and prepare myself to contribute to real-world applications.
 
 
 ## 🌐 Socials:
